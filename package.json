@@ -7,7 +7,12 @@
     "type": "git",
     "url": "https://github.com/google/paper-gui.git"
   },
-  "keywords": ["gui", "prototyping", "polymer", "dat.gui"],
+  "keywords": [
+    "gui",
+    "prototyping",
+    "polymer",
+    "dat.gui"
+  ],
   "scripts": {
     "postinstall": "bower install",
     "build": "node node_modules/gulp/bin/gulp.js"
